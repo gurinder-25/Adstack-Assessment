@@ -16,7 +16,7 @@ This project is a Python-based API built using Flask to manage app details. It p
 1. **Clone the repository**:
    ```bash
    git clone <https://github.com/gurinder-25/Adstack-Assessment>
-   cd <https://github.com/gurinder-25/Adstack-Assessment/Task 1/>
+   cd <https://github.com/gurinder-25/Adstack-Assessment/tree/main/Task%201>
    ```
 
 2. **Create a virtual environment (optional but recommended)**:
