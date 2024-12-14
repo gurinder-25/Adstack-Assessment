@@ -124,4 +124,4 @@ This project is a Python-based API built using Flask to manage app details. It p
 
 
 ## Author
-[Gurinder Singh]
+Gurinder Singh
