@@ -8,19 +8,19 @@ This repository contains the solutions for the Python Intern Assignment provided
 
 ```
 GurinderSingh_PythonInternAssignment/
-├── Task1/
-│   ├── app.py             # Flask API code for Task 1
-│   ├── README.md          # Instructions for Task 1
-├── Task2/
-│   ├── app.py             # Updated Flask API with database integration
-│   ├── populate_db.py     # Script to populate sample data
-│   ├── README.md          # Instructions for Task 2
-├── Task3/
-│   ├── virtual_android.py # Virtual Android System Simulation script
-│   ├── README.md          # Instructions for Task 3
-├── Task4/
-│   ├── networking_script.py # Networking script to send mock data
-│   ├── README.md            # Instructions for Task 4
+Task1/
+  app.py             # Flask API code for Task 1
+  README.md          # Instructions for Task 1
+Task2/
+  app.py             # Updated Flask API with database integration
+  populate_db.py     # Script to populate sample data
+  README.md          # Instructions for Task 2
+Task3/
+  virtual_android.py # Virtual Android System Simulation script
+  README.md          # Instructions for Task 3
+Task4/
+  networking_script.py # Networking script to send mock data
+  README.md            # Instructions for Task 4
 ```
 
 ---
